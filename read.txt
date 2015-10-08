@@ -1,0 +1,2 @@
+git是一个免费的软件
+git is free software
